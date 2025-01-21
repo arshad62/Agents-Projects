@@ -1,0 +1,8 @@
+ matplotlib 
+ pandas 
+ openpyxl 
+ tabulate 
+ langchain_experimental
+ langchain_google_genai
+ streamlit
+ seaborn
